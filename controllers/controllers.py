@@ -20,14 +20,14 @@ class VRShowroom(http.Controller):
     <meta name='apple-mobile-web-app-capable' content='yes'>
     <link rel='stylesheet' href='/odooxr-base/static/css/common.css'>
 
-    <title>Inline Session</title>
+    <title>Showroom Session</title>
   </head>
   <body id="vr-canvas">
     <header>
       <details open>
         <summary>Showroom Session</summary>
         <p>
-          This sample demonstrates a simple VR showroom for Odoo.
+          This sample demonstrates a simple VR Showroom for Odoo.
           <a class="back" href="/">Website</a>
         </p>
       </details>
